@@ -1,4 +1,4 @@
-﻿using lab5;
+using lab5;
 using System;
 using System.Collections.Generic;
 
