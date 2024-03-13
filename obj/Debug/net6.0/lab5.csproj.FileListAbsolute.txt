@@ -1,0 +1,15 @@
+D:\CSHARP\Session02-Language\QuocAnh.Lab5.CSharp\bin\Debug\net6.0\lab5.exe
+D:\CSHARP\Session02-Language\QuocAnh.Lab5.CSharp\bin\Debug\net6.0\lab5.deps.json
+D:\CSHARP\Session02-Language\QuocAnh.Lab5.CSharp\bin\Debug\net6.0\lab5.runtimeconfig.json
+D:\CSHARP\Session02-Language\QuocAnh.Lab5.CSharp\bin\Debug\net6.0\lab5.dll
+D:\CSHARP\Session02-Language\QuocAnh.Lab5.CSharp\bin\Debug\net6.0\lab5.pdb
+D:\CSHARP\Session02-Language\QuocAnh.Lab5.CSharp\obj\Debug\net6.0\lab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSHARP\Session02-Language\QuocAnh.Lab5.CSharp\obj\Debug\net6.0\lab5.AssemblyInfoInputs.cache
+D:\CSHARP\Session02-Language\QuocAnh.Lab5.CSharp\obj\Debug\net6.0\lab5.AssemblyInfo.cs
+D:\CSHARP\Session02-Language\QuocAnh.Lab5.CSharp\obj\Debug\net6.0\lab5.csproj.CoreCompileInputs.cache
+D:\CSHARP\Session02-Language\QuocAnh.Lab5.CSharp\obj\Debug\net6.0\lab5.sourcelink.json
+D:\CSHARP\Session02-Language\QuocAnh.Lab5.CSharp\obj\Debug\net6.0\lab5.dll
+D:\CSHARP\Session02-Language\QuocAnh.Lab5.CSharp\obj\Debug\net6.0\refint\lab5.dll
+D:\CSHARP\Session02-Language\QuocAnh.Lab5.CSharp\obj\Debug\net6.0\lab5.pdb
+D:\CSHARP\Session02-Language\QuocAnh.Lab5.CSharp\obj\Debug\net6.0\lab5.genruntimeconfig.cache
+D:\CSHARP\Session02-Language\QuocAnh.Lab5.CSharp\obj\Debug\net6.0\ref\lab5.dll
